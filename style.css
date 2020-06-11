@@ -1,0 +1,64 @@
+body {
+width:100%;
+  background-color: white;
+  text-align: center;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  #fram{  
+  border: solid gray 1px;  
+  width:25%;  
+  border-radius: 2px;  
+  margin: 120px auto;  
+  background: white;  
+  padding: 50px;  
+  }  
+  #aji
+  {
+  hight:300%;
+  /*mbackground-image: url("https://paysquare.com/wp-content/uploads/2019/08/Statutory-compliances-768x512.jpg");
+ /* background-image: url("https://previews.123rf.com/images/kchung/kchung1508/kchung150800518/43686663-male-hand-pressing-payroll-key-button-over-blue-abstract-background.jpg");
+  /*background-image:url("https://images8.alphacoders.com/407/thumbbig-407198.jpg");*/
+padding:200px;
+
+}
+.button{
+background-color: #008CBA;
+border:none;
+color:white;
+padding:15px 32px;
+text-algin: center; 
+display:inline-block;
+font-size:16px; 
+}
+.button1 {border-radius: 40px;}
+.mq{
+color: black;
+}
+.user{
+border-color:#1abc9c;
+border-radius:40px;
+}
+.pass{
+border-color:#1abc9c;}
+.h{
+color: green;
+font-size:16px;
+text-algin: center;
+
+}
+
+img{
+border-radius:50px;
+}
+input[type="text"]::placeholder {  
+ text-align: center; 
+ } 
+ input[type="password"]::placeholder
+ {
+ text-algin: center;
+ }
+ marquee{
+ color: red;
+ bgcolor:red;
+ }
